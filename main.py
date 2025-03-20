@@ -5,3 +5,4 @@ def factorial(n):
 
 num = int(input("Введите число для вычисления факториала: "))
 print(f"Факториал числа {num} = {factorial(num)}")
+a = 10
